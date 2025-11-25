@@ -1,0 +1,11 @@
+Load data? (y/n): n
+Orders count (max 500): 10
+Max order time: 100
+Max priority (1-10): 5
+Warehouse capacity: 1000
+Max rack size: 200
+Max order size: 150
+Truck requests: 20
+Max disk size: 500
+Initial forklift position: 250
+Buffer capacity: 5
